@@ -10,6 +10,7 @@
 
 body {
     font-family: "Poppins" , sans-serif ;
+    background-color: blanchedalmond;
 }
 
 .poppins-light {
@@ -367,6 +368,22 @@ section {
   width: 90%;
   height: 90%;
  }
+ .project2-img {
+ width: 100%;
+ height: 420px;
+ }
+ .project1-img {
+  width: 100%;
+  height: 424px;
+  }
+ .project3-img {
+  width: 100%;
+  height: 420px;
+  }
+ .project4-img {
+  width: 100%;
+  height: 435px;
+  }
 
  .project-title {
   margin: 1rem;
